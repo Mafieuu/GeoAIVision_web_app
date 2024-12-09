@@ -34,8 +34,8 @@ pg = st.navigation(
 
 
 # --- SHARED ON ALL PAGES ---
-st.logo("assets/logo.png")
-st.sidebar.markdown("Powered by GeoAIVision")
+
+st.sidebar.markdown("Bienvenu dans GeoIAVision")
 
 
 # --- RUN NAVIGATION ---
